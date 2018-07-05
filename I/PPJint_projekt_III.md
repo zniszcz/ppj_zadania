@@ -1,0 +1,2 @@
+# Kalendarz
+Dany jest plik `Snow.ppm` zawierający obraz graficzny. Zaimplementuj metodę wykorzystującą klasę `FileReader`, aby wczytać zawarte w pliku dane. Rozdziel część nagłówkową od części danych, a następnie przetwórz dane i wyrysuj obraz na ekranie. Wczytany obraz wyświetl w aplikacji okienkowej, wraz z jego lustrzanym odbiciem. Uwaga: nie można wykorzystywać klasy `StreamTokenizer` ani innych klas systemowych wczytujących dane.
